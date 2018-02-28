@@ -1,1 +1,1 @@
-Write-Host Hello World 
+Write-Host Hello #{Octopus.Environment.Name} 
